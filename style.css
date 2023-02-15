@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+h2{
+    background-color: black;
+}
+
+.h2{
+    color: orange;
+    font-weight:50;
+    padding-left: 605px;
+}
+
+.espaciologo{
+    width: 35%;
+    border: 3px inset black;
+    position: relative;
+    left: auto;
+    
+}
+
+.h3{
+     color: black;
+    
+    
+    font-style: oblique;
+    width: 60%;
+height:60%;
+border: black;
+position: absolute;
+left: 530px;
+top:130%;
+
+   
+    
+}
+   
+
+u{
+    color: blue;
+}
+
+.imagen1{
+    width: 1334px;
+    border: 3px inset black;
+    position: relative;
+    left: 0;
+    top: 120%; 
+} 
+
+.boton{
+    padding-left: 700px;
+ 
+}
+
+.h1 {
+    font-style: unset;
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.logo1 {
+width: 20px;
+height: 20px;
+border-radius: 50%; 
+border: black;
+position: absolute;
+left: 85%;
+top:92%;
+
+}
